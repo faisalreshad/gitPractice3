@@ -9,5 +9,8 @@ public class gitpracticewithbranching {
 	public void writingMoreChanges() {
 		
 	}
+	public void testingMethod() {
+		System.out.println("im writing this to show you its on faisal branch");
+	}
 
 }
