@@ -12,5 +12,8 @@ public class gitpracticewithbranching {
 	public void testingMethod() {
 		System.out.println("im writing this to show you its on faisal branch");
 	}
+	
+	public void thisIsWrittenOnRemoteRepo(){
+	}
 
 }
